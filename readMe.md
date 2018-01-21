@@ -15,5 +15,5 @@
 
 # Thanks to
 
-[AndyBobBean/PathFinding](https://github.com/AndyBobBean/PathFinding)
-[peters/winforms-modernui](https://github.com/peters/winforms-modernui)
+- [AndyBobBean/PathFinding](https://github.com/AndyBobBean/PathFinding)
+- [peters/winforms-modernui](https://github.com/peters/winforms-modernui)
